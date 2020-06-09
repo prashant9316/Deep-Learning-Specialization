@@ -1,0 +1,3 @@
+## STRUCTUREING MACHINE LEARNING PROJECTS
+
+Machine Learning Stratagies
